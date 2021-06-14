@@ -121,5 +121,10 @@ namespace Roommates.Repositories
                 }
             }
         }
+
+        public void AssignChore(int roommateId, int choreId)
+        {
+
+        }
     }
 }
